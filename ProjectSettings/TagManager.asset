@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - Obstacles
+  - Enemy
+  - Item
+  - Axe
+  - Health
   layers:
   - Default
   - TransparentFX
@@ -20,7 +24,7 @@ TagManager:
   - 
   - 
   - 
-  - 
+  - Axe
   - 
   - 
   - 
