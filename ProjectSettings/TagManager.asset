@@ -9,6 +9,10 @@ TagManager:
   - Item
   - Axe
   - Health
+  - Aliens
+  - Potion
+  - Exit
+  - Crank
   layers:
   - Default
   - TransparentFX
@@ -22,7 +26,7 @@ TagManager:
   - Player
   - Ground
   - 
-  - 
+  - Obstacle
   - 
   - Axe
   - 
@@ -45,6 +49,9 @@ TagManager:
   m_SortingLayers:
   - name: Background
     uniqueID: 4125457773
+    locked: 0
+  - name: BackLight
+    uniqueID: 2032730321
     locked: 0
   - name: World
     uniqueID: 3898143355
